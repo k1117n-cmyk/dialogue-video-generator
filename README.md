@@ -150,3 +150,7 @@ Useful references:
 
 - VOICEVOX ENGINE: https://github.com/VOICEVOX/voicevox_engine
 - VOICEVOX Q&A: https://voicevox.hiroshiba.jp/qa/
+
+## Links
+
+- YouTube: https://www.youtube.com/channel/UCANihUUdQkY5YOY0Oo2Vv9A
