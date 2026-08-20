@@ -1,0 +1,16 @@
+.DS_Store
+
+# Generated output
+tmp/
+output.mp4
+*.mp4
+*.wav
+
+# User-provided assets
+audio/
+backgrounds/
+images/
+mp4/
+
+# Local settings
+.env

@@ -1,0 +1,4 @@
+Speaker A|Hello. Welcome to this sample.
+Speaker B|This script generates a short dialogue video.
+Speaker A|Prepare your own background and character images.
+Speaker B|Then run generate_video.sh.

@@ -1,0 +1,11 @@
+[1-2]
+Sample Video
+------------
+Dialogue video generator
+
+[3-4]
+Required Assets
+---------------
+backgrounds/
+images/speaker-a/
+images/speaker-b/
