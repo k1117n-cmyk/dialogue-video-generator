@@ -154,3 +154,4 @@ Useful references:
 ## Links
 
 - YouTube: https://www.youtube.com/channel/UCANihUUdQkY5YOY0Oo2Vv9A
+- Article: https://pc-fan.net/shell-script-video-automation/
