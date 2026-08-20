@@ -1,5 +1,12 @@
 # Dialogue Video Generator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Shell Script](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey?logo=apple)
+![VOICEVOX](https://img.shields.io/badge/VOICEVOX-Engine-00A6D6)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-required-007808?logo=ffmpeg&logoColor=white)
+![ImageMagick](https://img.shields.io/badge/ImageMagick-required-000000)
+
 Bash script for generating narrated dialogue videos from a text script, VOICEVOX audio, character images, backgrounds, and subtitles.
 
 This repository includes only the automation script and sample text files. It does not include character images, background images, BGM, generated audio, or generated videos.
