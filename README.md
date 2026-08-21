@@ -9,6 +9,10 @@
 
 Bash script for generating narrated dialogue videos from a text script, VOICEVOX audio, character images, backgrounds, and subtitles.
 
+## Demo
+
+![Dialogue Video Generator demo](dialogue-video-generator-sample.gif)
+
 This repository includes only the automation script and sample text files. It does not include character images, background images, BGM, generated audio, or generated videos.
 
 ## Requirements
